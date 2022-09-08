@@ -1,1 +1,33 @@
 
+
+.news-wrapper {
+    margin-bottom: 32px;
+}
+  
+.news {
+    color: #000000;
+    display: flex;
+}
+  
+p {
+    font-size: 18px;
+}
+  
+.news-category {
+    color: #000000;
+    margin-right: 20px;
+}
+  
+.news:hover {
+    text-decoration: underline;
+}
+
+footer {
+    text-align: center;
+}
+
+footer {
+    background-color: #2f5167;
+    height: 120px;
+    padding: 40px;
+}
